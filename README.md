@@ -30,7 +30,8 @@ The system captures an employee's face through the browser camera, verifies the 
 
 ## 🏠 Employee Verification Dashboard
 
-![OmniEntry Dashboard](screenshots/dashboard.png)
+![OmniEntry Dashboar<img width="1366" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/6a89b914-4601-4b31-95a1-aba6eb7b20ca" />
+d](screenshots/dashboard.png)
 
 The main dashboard provides access to the camera, employee verification, and entry logs.
 
@@ -38,15 +39,17 @@ The main dashboard provides access to the camera, employee verification, and ent
 
 ## 📷 Face Verification
 
-![Face Verification](screenshots/verification.png)
+![Face Verification](screenshots/verifi<img width="1366" height="768" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/1084b49f-6978-4915-8616-fac25b5aef36" />
+cation.png)
 
 Employees can start their camera and perform facial verification directly from the browser.
 
 ---
 
-## ✅ Successful Authentication
+## ✅ Successful Authentication and Location Tracking
 
-![Successful Authentication](screenshots/successful-verification.png)
+![Successful Authentication](screenshots/succe<img width="1366" height="768" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/59fae617-e4da-483e-9ac3-a938b56f7694" />
+ssful-verification.png)
 
 After a successful match, the system displays:
 
@@ -58,12 +61,6 @@ After a successful match, the system displays:
 * Entry Time
 * Entry Location
 * Location Accuracy
-
----
-
-## 📍 Location Tracking
-
-![Entry Location](screenshots/location.png)
 
 Each successful verification can contain the employee's:
 
