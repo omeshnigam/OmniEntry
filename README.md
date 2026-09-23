@@ -71,8 +71,6 @@ Each successful verification can contain the employee's:
 
 ## 📊 Entry Logs
 
-![Entry Logs](screenshots/entry-logs.png)
-
 The system maintains an employee verification history containing:
 
 | Field      | Description           |
