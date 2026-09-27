@@ -608,3 +608,7 @@ B.Tech Information Technology Student
 Built with ❤️ using React & AWS
 
 </p>
+
+Copyright (c) 2026-present Omesh Nigam. All rights reserved.
+
+No one may use, distribute, or modify this code without explicit permission from the author.
